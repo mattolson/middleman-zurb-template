@@ -1,8 +1,7 @@
 # middleman-zurb-template
 
-This is a [template](http://middlemanapp.com/getting-started/#toc_6) for the excellent [Middleman](http://middlemanapp.com/) static site generator that incorporates 
-[ZURB Foundation 4](http://foundation.zurb.com) and reasonable defaults for building out a blog. As with all Middleman templates, using [Bundler](http://gembundler.com/) 
-and [rbenv](https://github.com/sstephenson/rbenv/) is recommended.
+This is a [project template](http://middlemanapp.com/getting-started/#toc_6) for the [Middleman v3](http://middlemanapp.com/) static site
+generator that incorporates [ZURB Foundation v4](http://foundation.zurb.com) and reasonable defaults for building out a blog.
 
 ## Features
 
@@ -44,4 +43,3 @@ This template is still a good starting point for sites that don't require bloggi
 Two sites that I know of that use this template as a starting point (if there are more, let me know!):
 * My blog: [Matt Olson](http://mattolson.com)
 * My company's site: [Ruby Cloud](http://rubycloud.com)
-
